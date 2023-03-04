@@ -8,9 +8,9 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-Hello-Squirrel is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+Hello-Squirrel is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿. Through a list of hobbies and a bio description, we personalize our introduction.
 
-If I had to describe this project in three (3) emojis, they would be: 
+If I had to describe this project in three (3) emojis, they would be: 🤔😲😁
 
 ## Application Features
 
@@ -29,15 +29,15 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/jAJnJ5B' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -47,6 +47,8 @@ GIF created with **your chosen GIF tool**
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+
+From this unit, I learned more about how to operate Android studio and the language Kotlin. Moreover, I was able to experiment with the background colors and design through the activity_main.xml file.
 
 ## License
 
