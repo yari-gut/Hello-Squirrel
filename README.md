@@ -48,7 +48,7 @@ GIF created with ScreenToGif
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
-From this unit, I learned more about how to operate Android studio and the language Kotlin. Moreover, I was able to experiment with the background colors and design through the activity_main.xml file.
+From this unit, I learned more about how to operate Android studio and code with the language Kotlin. Moreover, I was able to experiment with the background colors and design through the activity_main.xml file. This unit was enjoyable, and it was a great way to begin my Android Development knowledge through this project.
 
 ## License
 
